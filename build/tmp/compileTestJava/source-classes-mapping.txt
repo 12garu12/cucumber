@@ -1,2 +1,8 @@
 com/cedaniel200/app/runners/Sumar.java
  com.cedaniel200.app.runners.Sumar
+com/cedaniel200/app/stepdefinitions/SumarStepDefinitions.java
+ com.cedaniel200.app.stepdefinitions.SumarStepDefinitions
+com/cedaniel200/app/runners/Restar.java
+ com.cedaniel200.app.runners.Restar
+com/cedaniel200/app/stepdefinitions/RestarStepDefinitions.java
+ com.cedaniel200.app.stepdefinitions.RestarStepDefinitions
