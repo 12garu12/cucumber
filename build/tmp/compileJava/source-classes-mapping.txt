@@ -2,3 +2,5 @@ com/cedaniel200/app/calculo/Suma.java
  com.cedaniel200.app.calculo.Suma
 com/cedaniel200/app/calculo/Resta.java
  com.cedaniel200.app.calculo.Resta
+com/cedaniel200/app/palabras/ContadorCaracteres.java
+ com.cedaniel200.app.palabras.ContadorCaracteres

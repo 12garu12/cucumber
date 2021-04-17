@@ -3,7 +3,12 @@ Feature: Restar
   Quiero restar
   Para no errar en el calculo
 
-  Scenario: Restar numeros enteros
+  Scenario Outline: Restar numeros enteros
     Given quiero restar
-    When resto 2 menos 2
-    Then deberia ver que el resultado de la resta es 0
+    When resto <primerNumero> menos <segundoNumero>
+    Then deberia ver que el resultado de la resta es <resultado>
+    Examples:
+    |primerNumero|segundoNumero|resultado|
+    |4           |2            |2        |
+    |2           |2            |0        |
+    |5           |1            |4        |

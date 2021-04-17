@@ -6,3 +6,7 @@ com/cedaniel200/app/runners/Restar.java
  com.cedaniel200.app.runners.Restar
 com/cedaniel200/app/stepdefinitions/RestarStepDefinitions.java
  com.cedaniel200.app.stepdefinitions.RestarStepDefinitions
+com/cedaniel200/app/runners/ContarCaracteres.java
+ com.cedaniel200.app.runners.ContarCaracteres
+com/cedaniel200/app/stepdefinitions/ContarCaracteresStepDefinitions.java
+ com.cedaniel200.app.stepdefinitions.ContarCaracteresStepDefinitions
